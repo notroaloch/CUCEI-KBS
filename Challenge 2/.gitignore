@@ -1,0 +1,8 @@
+\classes
+\lib
+\src\persons
+\src\market
+\src\prodcust
+
+*.clp
+*.txt
